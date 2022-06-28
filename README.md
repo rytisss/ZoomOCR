@@ -25,4 +25,4 @@ To load a new license, please execute action as it is hown in the following pict
 
 ## 2. Frame stabilization  
 This function will try to stabilize 'shaky' frame. **'Enable Stabilizer'** flag should be checked:  
-<kbd><img src="https://drive.google.com/uc?export=view&id=1r_A8eDcAfbazGR2hsKRr7AwXKWoAiALN" width="1000"/></kbd> 
+<kbd><img src="https://drive.google.com/uc?export=view&id=1lRxKHMNZ3yMkzWu6lIcbU4MJUGwAaFI4" width="1000"/></kbd> 
