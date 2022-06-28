@@ -23,4 +23,6 @@ To load a new license, please execute action as it is hown in the following pict
 <kbd><img src="https://drive.google.com/uc?export=view&id=1w5duW2a-_qbxS-Im2csViJDsDoAWWg9q" width="1000"/></kbd>  
 **Note!** Once proper license is loaded, it will be automatically copied near application. The would not be a need to execute these steps again (while license is not expired).
 
-
+## 2. Frame stabilization  
+This function will try to stabilize 'shaky' frame. **'Enable Stabilizer'** flag should be checked:  
+<kbd><img src="https://drive.google.com/uc?export=view&id=1r_A8eDcAfbazGR2hsKRr7AwXKWoAiALN" width="1000"/></kbd> 
