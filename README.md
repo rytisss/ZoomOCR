@@ -39,5 +39,6 @@ In some cases attack seconds field can automatically switch when the time left f
 <kbd><img src="https://github.com/rytisss/ZoomOCR/blob/main/res/auto_attack_ms_point_detectect.png" width="1000"/></kbd>  
 **Functionality**:  
 <kbd><img src="https://github.com/rytisss/ZoomOCR/blob/main/res/auto_attack_ms_small.gif" width="1000"/></kbd>  
-Frame can be also adjusted with preprocessing techniques **FOR BETTER OCR RECOGNITION**, such as thresholding, contrast correction or rotations:
-<kbd><img src="https://github.com/rytisss/ZoomOCR/blob/main/res/preprocessing_small.gif" width="1000"/></kbd>  
+### 3.2. Minutes to seconds switch  
+In some cases minutes switch to seconds when less than one minute is left to play. If auto detection of this transition is desired, activate following flag (**'Auto-Min-To-Sec'**):  
+<kbd><img src="https://github.com/rytisss/ZoomOCR/blob/main/res/min_to_sec_small.gif" width="1000"/></kbd>  
