@@ -42,3 +42,6 @@ In some cases attack seconds field can automatically switch when the time left f
 ### 3.2. Minutes to seconds switch  
 In some cases minutes switch to seconds when less than one minute is left to play. If auto detection of this transition is desired, activate following flag (**'Auto-Min-To-Sec'**):  
 <kbd><img src="https://github.com/rytisss/ZoomOCR/blob/main/res/min_to_sec_small.gif" width="1000"/></kbd>  
+### 3.3. Score position switch 1-10-100 
+In some cases score field switches when it transitions from 1 to 10 to 100. To take into consideration, activate following flag (**'Score Field Auto Switch'**):  
+<kbd><img src="https://github.com/rytisss/ZoomOCR/blob/main/res/score_digit_switch_small.gif" width="1000"/></kbd>  
