@@ -45,3 +45,7 @@ In some cases minutes switch to seconds when less than one minute is left to pla
 ### 3.3. Score position switch 1-10-100 
 In some cases score field switches when it transitions from 1 to 10 to 100. To take into consideration, activate following flag (**'Score Field Auto Switch'**):  
 <kbd><img src="https://github.com/rytisss/ZoomOCR/blob/main/res/score_digit_switch_small.gif" width="1000"/></kbd>  
+### 3.4. Offset time by 30 minutes in Handball
+It if possible to offset time by 30 minutes (add 30 minutes). Activate flag **'+30Min'**:  
+<kbd><img src="https://github.com/rytisss/ZoomOCR/blob/main/res/30min_plus_small.gif" width="1000"/></kbd>  
+
