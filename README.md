@@ -32,7 +32,12 @@ Frame can be also adjusted with preprocessing techniques **FOR BETTER OCR RECOGN
 <kbd><img src="https://github.com/rytisss/ZoomOCR/blob/main/res/preprocessing_small.gif" width="1000"/></kbd>  
 
 ## 3. Auto time & score switches
-This function will try to stabilize 'shaky' frame. **'Enable Stabilizer'** flag should be checked:  
-<kbd><img src="https://github.com/rytisss/ZoomOCR/blob/main/res/stabilization_small.gif" width="1000"/></kbd>  
+### 3.1. Attack seconds auto-switch to miliseconds 
+In some cases attack seconds field can automatically switch when the time left for attack is less than 5 seconds. Luckely this ZoomOCR has function to take it into consideration. Check **'Auto Attack Miliseconds'** flag and this OCR will automatically detect when switch appear. **NOTE!** Put attack seconds (x1) region to cover dot that separates miliseconds from seconds when switch appear. See following pictures for better explanation. When 'switch' will be detected, the software will displayh 'dot detection' (see second picture).  
+**Setup**:
+<kbd><img src="https://github.com/rytisss/ZoomOCR/blob/main/res/auto_attack_ms_setup.png" width="1000"/></kbd>  
+<kbd><img src="https://github.com/rytisss/ZoomOCR/blob/main/res/auto_attack_ms_point_detectect.png" width="1000"/></kbd>  
+**Functionality**:  
+<kbd><img src="https://github.com/rytisss/ZoomOCR/blob/main/res/auto_attack_ms_small.gif" width="1000"/></kbd>  
 Frame can be also adjusted with preprocessing techniques **FOR BETTER OCR RECOGNITION**, such as thresholding, contrast correction or rotations:
 <kbd><img src="https://github.com/rytisss/ZoomOCR/blob/main/res/preprocessing_small.gif" width="1000"/></kbd>  
