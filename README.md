@@ -1,11 +1,7 @@
 # ZoomOCR
 Instructions for ZoomOCR application. Expand the following subsection of you will be redirected to the specific section from application.
-
-<details>  
-
-<summary><b>1. License </b></summary>  
   
-## Licensing and Troubleshooting  
+## 1. License
 
 This software is licensed and license is distributed by **ZoomTV Ltd**. Please contact [info@zoomtv.lt](info@zoomtv.lt) for more information.  
 
@@ -27,7 +23,6 @@ To load a new license, please execute action as it is hown in the following pict
 <kbd><img src="https://github.com/rytisss/ZoomOCR/blob/main/res/license_load_small.gif" width="1000"/></kbd>  
 **Note!** Once proper license is loaded, it will be automatically copied near application. The would not be a need to execute these steps again (while license is not expired).
 
-</details>
 
 ## 2. Frame stabilization & preprocessing  
 ### 2.1. Stabilizer
