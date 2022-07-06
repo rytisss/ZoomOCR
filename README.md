@@ -1,5 +1,5 @@
 # ZoomOCR
-Instructions for ZoomOCR application
+Instructions for ZoomOCR application. Expand the following subsection of you will be redirected to the specific section from application.
   
 ## 1. License  
 This software is licensed and license is distributed by **ZoomTV Ltd**. Please contact [info@zoomtv.lt](info@zoomtv.lt) for more information.  
