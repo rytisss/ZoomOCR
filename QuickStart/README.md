@@ -1,4 +1,4 @@
-## 2. Quick start. Digit recognition and association
+## Quick start. Digits recognition and association
 
 This software has 2 sport modes: basketball and hockey/handball. Each of them have sport-specific features.
 
