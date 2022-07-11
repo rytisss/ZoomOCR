@@ -21,3 +21,8 @@ If there is a lot of movement in the frame (people or other moving object) consi
 If the context is not straight, it is possible to transform ('straighten') the context:  
 
 <kbd><img src="https://github.com/rytisss/ZoomOCR/blob/main/res/transformation_region_small.gif" width="1000"/></kbd>  
+
+### Region reset 
+There is also a way of quick reset of all mentioned region controllers:
+
+<kbd><img src="https://github.com/rytisss/ZoomOCR/blob/main/res/regions_reset_small.gif" width="1000"/></kbd>  
