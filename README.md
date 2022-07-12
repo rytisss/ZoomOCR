@@ -15,4 +15,4 @@ This software is licensed and license is distributed by **ZoomTV Ltd**. Please c
 
   
 ## Contacts  
-**ZoomTV Ltd** | [https://zoomtv.lt](https://zoomtv.lt/) | [info@zoomtv.lt](info@zoomtv.lt)
+[https://zoomtv.lt](https://zoomtv.lt/) | [info@zoomtv.lt](info@zoomtv.lt)
