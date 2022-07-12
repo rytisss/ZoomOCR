@@ -6,6 +6,10 @@ This software has 2 sport modes: basketball and hockey/handball. Each of them ha
 To recognize specific region add the controler region and select its value. Execute the following steps:
 
 <kbd><img src="https://github.com/rytisss/ZoomOCR/blob/main/res/quick_setup_small.gif" width="1000"/></kbd>  
+  
+Multiple regions can be adjusted by pressing '**CTRL**' + **Mouse left button** while mouse is dragged. The frame of window which is controlled will be indicated:  
+  
+<kbd><img src="https://github.com/rytisss/ZoomOCR/blob/main/res/all_control_element_shift_small.gif" width="1000"/></kbd>   
 
 ### ROI adjustment 
 If frame is big and the region of interested is quite small, only the small region can be taken into consideration which can reduce CPU load:  
