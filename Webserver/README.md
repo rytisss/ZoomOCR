@@ -15,3 +15,11 @@ Local server mode can be access through the radio button:
 The local server will be called on another application:  
   
 <kbd><img src="https://github.com/rytisss/ZoomOCR/blob/main/res/local_server.png"/></kbd>   
+  
+Server will be launched on the localhost, port 8080 and application will instantly connect to the server:  
+  
+<kbd><img src="https://github.com/rytisss/ZoomOCR/blob/main/res/local_server_app.png"/></kbd>   
+  
+The results from web server can be access as it is shown in the picture:  
+  
+<kbd><img src="https://github.com/rytisss/ZoomOCR/blob/main/res/server_getter_local.png"/></kbd>   
