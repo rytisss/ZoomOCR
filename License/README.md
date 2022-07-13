@@ -18,4 +18,4 @@ To load a new license, please execute action as it is hown in the following pict
 <kbd><img src="https://github.com/rytisss/ZoomOCR/blob/main/res/license_load.png" width="1000"/></kbd> 
   
 <kbd><img src="https://github.com/rytisss/ZoomOCR/blob/main/res/license_load_small.gif" width="1000"/></kbd>  
-**Note!** Once proper license is loaded, it will be automatically copied near application. The would not be a need to execute these steps again (while license is not expired).
+**Note!** Once proper license is loaded, it will be automatically copied near application. There won't be a need to execute these steps again (while license is not expired).
