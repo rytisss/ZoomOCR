@@ -1,8 +1,9 @@
-# ZoomOCR
+<p align="center">
+  <img width="400" src="https://github.com/rytisss/ZoomOCR/blob/main/res/ZoomCG_Black.png">
+</p>  
+
 Instructions for ZoomOCR application. Open the following subsection of you will be redirected to the specific section from application.  
   
-    
-    
 This software is licensed and license is distributed by **ZoomTV Ltd**. Please contact [info@zoomtv.lt](info@zoomtv.lt) for more information.  
   
 ## Instruction content 
