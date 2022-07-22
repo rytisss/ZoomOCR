@@ -16,7 +16,7 @@ The local server will be called on another application:
   
 <kbd><img src="https://github.com/rytisss/ZoomOCR/blob/main/res/local_server.png"/></kbd>   
   
-Server will be launched on the localhost, port 8080 and application will instantly connect to the server:  
+Server will be launched on the **127.0.0.1**, port **5000** and application will instantly connect to the server:  
   
 <kbd><img src="https://github.com/rytisss/ZoomOCR/blob/main/res/local_server_app.png"/></kbd>   
   
