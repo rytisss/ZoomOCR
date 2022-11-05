@@ -14,6 +14,7 @@ This software is licensed and license is distributed by **ZoomTV Ltd**. Please c
 | [Quick start](https://github.com/rytisss/ZoomOCR/blob/main/QuickStart/README.md)  | Introduction for setup  |
 | [Windows](https://github.com/rytisss/ZoomOCR/tree/main/Windows/README.md)  | Zoom / pan / GUI windows control and reset  |
 | [Stabilization & Preprocessing](https://github.com/rytisss/ZoomOCR/blob/main/StabilizationPreprocessing/README.md) | Frame stabilization and optional preporocessing  |
+| [Segmented & Regular Digit Recognition](https://github.com/rytisss/ZoomOCR/blob/main/ClassificationNetwork/README.md) | Different neural network models for digits |
 | [Auto Switches](https://github.com/rytisss/ZoomOCR/tree/main/TimeScoreSwitches/README.md)  | Functionality for automatic region switches (time / scores) and other  |
 | [Web Server](https://github.com/rytisss/ZoomOCR/tree/main/Webserver/README.md)  | Results streaming and external communication  |
   
