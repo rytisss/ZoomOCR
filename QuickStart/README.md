@@ -12,7 +12,7 @@ Multiple regions can be adjusted by pressing '**CTRL**' + **Mouse left button** 
 <kbd><img src="https://github.com/rytisss/ZoomOCR/blob/main/res/all_control_element_shift_small.gif" width="1000"/></kbd>   
 
 ### Saving and loading OCR region configuration
-Configured OCR regions can be save and loaded on demand. Note that only specific sport configuration can be loaded to that specific sport. That sport needs to be active when loading configuration!
+Configured OCR regions can be save and loaded on demand. Note that only specific sport configuration can be loaded to that specific sport. Loaded sport will be switched/activated automatically!
 
 <kbd><img src="https://github.com/rytisss/ZoomOCR/blob/main/res/save_load_config.gif" width="1000"/></kbd>  
 
